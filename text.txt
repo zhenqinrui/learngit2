@@ -1,2 +1,3 @@
 hello
-add in dev2
+add in dev2, add in master
+master
