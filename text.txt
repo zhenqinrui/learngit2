@@ -2,4 +2,4 @@ hello
 add in dev2, add in master
 master
 
-quick and sample
+quick and sample dev3
