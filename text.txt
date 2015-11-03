@@ -2,4 +2,5 @@ hello
 add in dev2, add in master
 master
 
-quick & simple
+quick & and simple
+
